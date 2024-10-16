@@ -156,9 +156,15 @@ header img{
         flex-direction: column;
     }
 
+    .resumeDiv{
+        width: 90%;
+        border: 2px black solid;
+    }
+
     .btnDiv{
         width: 90%;
     }
+
     
     /* .content h2{
         color: black;
