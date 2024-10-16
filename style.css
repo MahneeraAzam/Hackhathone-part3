@@ -84,4 +84,8 @@ form{
     form{
         width: 90%;
     }
+
+    .btnDiv{
+        text-align: center;
+    }
 }
